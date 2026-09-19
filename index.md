@@ -21,9 +21,6 @@ A: Absolutely. In the Settings page, under "Sound & Feedback," you can toggle "S
 **Q: Does this app work offline?**
 A: Yes! Japanese Word Match is designed to be fully offline. You do not need an internet connection to play or learn.
 
-**Q: How do I reset my progress or settings?**
-A: The app does not save permanent test scores. If you want to reset your settings, you can simply delete the app from your device and reinstall it from the App Store.
-
 **Q: I found a bug or have a feature request.**
 A: We'd love to hear from you! Please send an email to the address listed above with a description of the issue or your idea.
 
